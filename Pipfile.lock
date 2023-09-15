@@ -1,0 +1,31 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d88c8bfc0d69c7037681b49997c2d6eaa1d917bb04e28aa16ee70fe351a9d30e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.11.3",
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "robotframework": {
+            "hashes": [
+                "sha256:3fa18f2596a4df2418c4b59abf43248327c15ed38ad8665f6a9a9c75c95d7789",
+                "sha256:ee0d512d557e72ed760dd075525f6226baaab309010a48f9c9bf1f416ca434f7"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.6'",
+            "version": "==6.1.1"
+        }
+    },
+    "develop": {}
+}
