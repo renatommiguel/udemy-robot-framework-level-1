@@ -2,7 +2,6 @@
 #Test idea from chat gpt
 #"""
 
-
 *** Settings ***
 Library     ../Libraries/MathLibrary.py
 
