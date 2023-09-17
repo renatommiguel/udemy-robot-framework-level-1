@@ -29,9 +29,23 @@ Robot script sections
 
 ![img_5.png](imgs/img_5.png)
 
-![img.png](img.png)
+![img_6.png](imgs/img_6.png)
 On test cases they have square brackets.
 
-
 First script
+Added the *** xxxx *** sections
+
+Substitute scripts with selenium2library with seleniumlibrary
+
+https://automationplayground.com/crm/
+
+Think about manual test one would like to make, and later automate it.
+
+Feature tags and test types
+
+Pre conditions, steps and post conditions for tests
+
+![img.png](img.png)
+
+
 

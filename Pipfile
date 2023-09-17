@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 robotframework = "*"
 black = "*"
+robotframework-seleniumlibrary = "*"
 
 [dev-packages]
 
